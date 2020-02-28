@@ -13,6 +13,8 @@ int main() {
 	cout << 4 / 4 << endl;
 	
 	cout << 4 * 4 << endl;
+	
+	cout << "Hello 1" << endl;
 
     return 0;
 }
