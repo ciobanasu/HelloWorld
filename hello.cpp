@@ -8,5 +8,5 @@ int main() {
 
     cout << 4 + 4 << endl;
 
-    return "hello";
+    return 0;
 }
