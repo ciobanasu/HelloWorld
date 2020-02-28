@@ -15,6 +15,8 @@ int main() {
 	cout << 4 * 4 << endl;
 	
 	cout << "Hello 1" << endl;
+	
+	cout << "Hello 2" << endl;
 
     return 0;
 }
